@@ -1,0 +1,8 @@
+.content-layout {
+  height: calc(100vh - 80px);
+  padding: 18px;
+}
+
+.content-body {
+  background: #ffffff;
+}

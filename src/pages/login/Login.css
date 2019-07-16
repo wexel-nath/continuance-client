@@ -1,0 +1,13 @@
+.login-wrapper {
+  margin: 0 auto;
+  padding-top: 20px;
+  height: calc(100vh - 80px);
+}
+
+.login-card {
+  width: 600px;
+}
+
+.login-logo {
+  width: 100%;
+}
